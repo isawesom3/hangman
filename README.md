@@ -3,7 +3,7 @@ yay! hangman! bruhbruhbruhbrubuhrhrhurbhuhhhuuhu
 heres da link↙💥   
 https://jsfiddle.net/harmlesspotato/9nrogh72/46/
 
-#### instructions:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#### instructions: =p!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 type in a word and when it says to guess a letter just type a lettter from the word.   
 
